@@ -1,11 +1,13 @@
 {
-  "name": "node-server",
-  "version": "1.0.0",
+  "name": "jiqsaw",
+  "version": "0.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "server.js",
+  "author": {
+    "name": "theburak"
   },
-  "author": "",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
   "license": "ISC"
 }
